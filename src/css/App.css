@@ -1,0 +1,15 @@
+
+/*  favoritos */
+.favorite-btn{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    top:10px;
+    border: none;
+}
